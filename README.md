@@ -10,8 +10,8 @@
  * Code Files: Mission_to_Mars_Challenge.ipynb, Mission_to_Mars_Challenge.py, Mission_to_Mars.ipynb 
  
  # Results:
- 
- # Summary
+ The final product was created using Flask to obtain images, a table with information about Mars in comparison to Earth, and the latest article title finializing a fully-functional web application. When the "Scrape New Data" button is pressed this will allow for new information to update both the website and the MongoDB.
+
+# Summary
  ![Capture](https://user-images.githubusercontent.com/31675832/149221150-c153389e-d02c-4098-ae3a-c0aacdd41b3b.PNG)
 
-one of the draws backs where it take a while for the page to reload once you press the scrape new data buttom and with additional time bootstraping i believe that this issue coud be easily resovled. I would suggest addition visual adds to be added to the web page like the 4 phases of mars and potential looking at different font/color to make it easier on the reader.
